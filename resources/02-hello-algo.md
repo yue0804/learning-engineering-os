@@ -20,4 +20,4 @@
 
 | 日期 | 版本/提交 | 章节或文件 | 我的产出（work/ 路径） | 证据（records/ 路径） |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| 2026-10-22 | Star 已收藏；示例取到 resources/_vendor/hello-algo/codes/cpp/（commit 350f483） | chapter_array_and_linkedlist：array.cpp、linked_list.cpp、list.cpp、my_list.cpp | work/ha-array-01、work/ha-list-01（先独立实现，后对照） | 待产 |

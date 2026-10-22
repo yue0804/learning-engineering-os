@@ -37,6 +37,12 @@
 | STATUS.md | 文件生成状态 | 阿序 |
 | PROGRESS.md | 本人学习完成状态 | 仅玥本人 |
 
+## 本地资源副本与任务卡
+
+- 上游课件按需取到 `resources/_vendor/`（已被 .gitignore 忽略，**不入库、不再分发**）：Missing Semester 的 `_2020/` 四讲、Hello 算法的数组与链表示例。取用版本与提交见 `resources/_vendor/MANIFEST.json`。
+- 每张任务卡在 `work/` 下（`ms-2020-shell-01`～`04`、`ha-array-01`、`ha-list-01`），含验收标准与「与上游的差异」表。任务卡由助手起草，**代码必须本人写**。
+- 材料是否备齐看 `plan/任务清单.md`；是否学会只看 `PROGRESS.md`。
+
 ## 状态为什么分成两份
 
 STATUS.md 回答「这个文件是谁生成的、依据是什么」，它可以自动更新。

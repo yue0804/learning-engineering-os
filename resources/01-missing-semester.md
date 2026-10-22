@@ -20,4 +20,4 @@
 
 | 日期 | 版本/提交 | 章节或文件 | 我的产出（work/ 路径） | 证据（records/ 路径） |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| 2026-10-22 | Star 已收藏；课程文件取到 resources/_vendor/missing-semester/_2020/（commit 1d695c9，master） | course-shell.md、shell-tools.md、version-control.md、debugging-profiling.md | work/ms-2020-shell-01～04（任务卡已建，代码待写） | 待产 |
