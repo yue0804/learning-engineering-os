@@ -37,6 +37,10 @@
 | STATUS.md | 文件生成状态 | 阿序 |
 | PROGRESS.md | 本人学习完成状态 | 仅玥本人 |
 
+## 先读哪一页
+
+外部读者或 AI 工具请先看 [INDEX.md](INDEX.md)：一页说明文件地图、状态口径与阅读顺序。
+
 ## 本地资源副本与任务卡
 
 - 上游课件按需取到 `resources/_vendor/`（已被 .gitignore 忽略，**不入库、不再分发**）：Missing Semester 的 `_2020/` 四讲、Hello 算法的数组与链表示例。取用版本与提交见 `resources/_vendor/MANIFEST.json`。
